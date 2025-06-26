@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\GitHub\Estructuras de datos\semana05\bin\Debug\net9.0\semana05.exe
+C:\Users\HP\Documents\GitHub\Estructuras de datos\semana05\bin\Debug\net9.0\semana05.deps.json
+C:\Users\HP\Documents\GitHub\Estructuras de datos\semana05\bin\Debug\net9.0\semana05.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\Estructuras de datos\semana05\bin\Debug\net9.0\semana05.dll
+C:\Users\HP\Documents\GitHub\Estructuras de datos\semana05\bin\Debug\net9.0\semana05.pdb
+C:\Users\HP\Documents\GitHub\Estructuras de datos\semana05\obj\Debug\net9.0\semana05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\Estructuras de datos\semana05\obj\Debug\net9.0\semana05.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\Estructuras de datos\semana05\obj\Debug\net9.0\semana05.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\Estructuras de datos\semana05\obj\Debug\net9.0\semana05.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\Estructuras de datos\semana05\obj\Debug\net9.0\semana05.sourcelink.json
+C:\Users\HP\Documents\GitHub\Estructuras de datos\semana05\obj\Debug\net9.0\semana05.dll
+C:\Users\HP\Documents\GitHub\Estructuras de datos\semana05\obj\Debug\net9.0\refint\semana05.dll
+C:\Users\HP\Documents\GitHub\Estructuras de datos\semana05\obj\Debug\net9.0\semana05.pdb
+C:\Users\HP\Documents\GitHub\Estructuras de datos\semana05\obj\Debug\net9.0\semana05.genruntimeconfig.cache
+C:\Users\HP\Documents\GitHub\Estructuras de datos\semana05\obj\Debug\net9.0\ref\semana05.dll

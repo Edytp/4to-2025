@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\PROYECTOS\\estructuras\\SEMANA03\\SEMANA03.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\Estructuras de datos\\SEMANA03\\SEMANA03.csproj",
       "projectName": "SEMANA03",
-      "projectPath": "C:\\Users\\HP\\Documents\\PROYECTOS\\estructuras\\SEMANA03\\SEMANA03.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Estructuras de datos\\SEMANA03\\SEMANA03.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\PROYECTOS\\estructuras\\SEMANA03\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\Estructuras de datos\\SEMANA03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
