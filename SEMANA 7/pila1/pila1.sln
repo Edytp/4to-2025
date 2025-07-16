@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pila1", "pila1.csproj", "{773F5F69-4766-F7E2-3B4B-7ACE3A78BDE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{773F5F69-4766-F7E2-3B4B-7ACE3A78BDE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773F5F69-4766-F7E2-3B4B-7ACE3A78BDE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773F5F69-4766-F7E2-3B4B-7ACE3A78BDE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773F5F69-4766-F7E2-3B4B-7ACE3A78BDE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E3B0DA7-28C3-4637-A566-4D4C3E9DFFDE}
+	EndGlobalSection
+EndGlobal

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\GitHub\\Estructuras de datos\\semana05\\semana05.csproj": {}
+    "C:\\Users\\HP\\Documents\\GitHub\\Estructuras de datos\\semana05\\Ejercicio1\\semana05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\GitHub\\Estructuras de datos\\semana05\\semana05.csproj": {
+    "C:\\Users\\HP\\Documents\\GitHub\\Estructuras de datos\\semana05\\Ejercicio1\\semana05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\Estructuras de datos\\semana05\\semana05.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\Estructuras de datos\\semana05\\Ejercicio1\\semana05.csproj",
         "projectName": "semana05",
-        "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Estructuras de datos\\semana05\\semana05.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\Estructuras de datos\\semana05\\Ejercicio1\\semana05.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\Estructuras de datos\\semana05\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\Estructuras de datos\\semana05\\Ejercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
