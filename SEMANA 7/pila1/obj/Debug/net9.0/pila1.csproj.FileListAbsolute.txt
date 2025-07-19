@@ -13,3 +13,18 @@ C:\Users\HP\Documents\GitHub\Estructuras de datos\pila1\obj\Debug\net9.0\refint\
 C:\Users\HP\Documents\GitHub\Estructuras de datos\pila1\obj\Debug\net9.0\pila1.pdb
 C:\Users\HP\Documents\GitHub\Estructuras de datos\pila1\obj\Debug\net9.0\pila1.genruntimeconfig.cache
 C:\Users\HP\Documents\GitHub\Estructuras de datos\pila1\obj\Debug\net9.0\ref\pila1.dll
+C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila1\bin\Debug\net9.0\pila1.exe
+C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila1\bin\Debug\net9.0\pila1.deps.json
+C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila1\bin\Debug\net9.0\pila1.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila1\bin\Debug\net9.0\pila1.dll
+C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila1\bin\Debug\net9.0\pila1.pdb
+C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila1\obj\Debug\net9.0\pila1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila1\obj\Debug\net9.0\pila1.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila1\obj\Debug\net9.0\pila1.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila1\obj\Debug\net9.0\pila1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila1\obj\Debug\net9.0\pila1.sourcelink.json
+C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila1\obj\Debug\net9.0\pila1.dll
+C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila1\obj\Debug\net9.0\refint\pila1.dll
+C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila1\obj\Debug\net9.0\pila1.pdb
+C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila1\obj\Debug\net9.0\pila1.genruntimeconfig.cache
+C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila1\obj\Debug\net9.0\ref\pila1.dll

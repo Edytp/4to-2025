@@ -12,3 +12,4 @@ C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila2\obj\Debug\net9.
 C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila2\obj\Debug\net9.0\pila2.pdb
 C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila2\obj\Debug\net9.0\pila2.genruntimeconfig.cache
 C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila2\obj\Debug\net9.0\ref\pila2.dll
+C:\Users\HP\Documents\GitHub\Estructuras de datos\SEMANA 7\pila2\obj\Debug\net9.0\pila2.sourcelink.json
